@@ -6,6 +6,8 @@ A command-line application using node, inquirer, and MySQL2 to efficiently manag
 
 # Screen Recording
 
+https://drive.google.com/file/d/1mKt38UAZ3ZLHG5rqt8z91H5r5P4V8i3C/view
+
 # How to install
 
 Open a new terminal and run npm i, and npm i mysql2, then node index.js.
